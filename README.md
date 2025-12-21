@@ -9,7 +9,7 @@ I like making stuff. But you can't make something good if you don't put in the e
 Sometimes, I have to tell myself to keep going. There's a half (or, more precisely, 7/8th) of me that wants to quit, and the other half that wants to keep going. I have to somehow use the 1/8th of me that wants to keep going to convince the 7/8th of me to chug along. It isn't always easy, but I think I should hold on to this hope that one day I will have the will to always keep going, like a superhero would. People can change. My tastes in art and music do, so why can't my motivation?\
 There are plenty of other reasons for me to keep going. I believe everyone without exception can be guided to the path of virtuousness. People tell me I'm naive to believe that, but I think they're lazy for not. Is it that some people can't be changed, or that you don't want to put in the effort to try to change them? Everything takes effort.
 Like hacking together large coding projects.\
-Yeah, maybe I can start here. One line of code at a time.\
+Yeah, maybe I can start here. One line of code at a time.
 
 ## Beeps and Boops, Ones and Zeros
 
