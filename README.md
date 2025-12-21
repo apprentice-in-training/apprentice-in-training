@@ -4,12 +4,12 @@ You know what they say.
 
 > Genius is 1 percent inspiration and 99 percent perspiration. - Thomas Edison
 
-The most brilliant idea won't ever come to life if you don't take the time and effort to hack it together.
-I like making stuff. But you can't make something good if you don't put in the effort. If there's one thing coding and being a computer science major has taught me, it's that sometimes you have to push through discomfort, such as painstakingly finding and isolating that bug.
-Sometimes, I have to tell myself to keep going. There's a half (or, more precisely, 7/8th) of me that wants to quit, and the other half that wants to keep going. I have to somehow use the 1/8th of me that wants to keep going to convince the 7/8th of me to chug along. It isn't always easy, but I think I should hold on to this hope that one day I will have the will to always keep going, like a superhero would. People can change. My tastes in art and music do, so why can't my motivation?
+The most brilliant idea won't ever come to life if you don't take the time and effort to hack it together.\
+I like making stuff. But you can't make something good if you don't put in the effort. If there's one thing coding and being a computer science major has taught me, it's that sometimes you have to push through discomfort, such as painstakingly finding and isolating that bug.\
+Sometimes, I have to tell myself to keep going. There's a half (or, more precisely, 7/8th) of me that wants to quit, and the other half that wants to keep going. I have to somehow use the 1/8th of me that wants to keep going to convince the 7/8th of me to chug along. It isn't always easy, but I think I should hold on to this hope that one day I will have the will to always keep going, like a superhero would. People can change. My tastes in art and music do, so why can't my motivation?\
 There are plenty of other reasons for me to keep going. I believe everyone without exception can be guided to the path of virtuousness. People tell me I'm naive to believe that, but I think they're lazy for not. Is it that some people can't be changed, or that you don't want to put in the effort to try to change them? Everything takes effort.
-Like hacking together large coding projects.
-Yeah, maybe I can start here. One line of code at a time.
+Like hacking together large coding projects.\
+Yeah, maybe I can start here. One line of code at a time.\
 
 ## Beeps and Boops, Ones and Zeros
 
@@ -33,7 +33,7 @@ Like is the case with anything, there's a lot I still need to learn about progra
 
 ## Contacts
 
-Email: eddy.wang@yale.edu
+Email: eddy.wang@yale.edu\
 That's it, for now.
 
 <!--
