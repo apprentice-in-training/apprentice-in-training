@@ -26,9 +26,6 @@ Generally, I make stuff that I think would be interesting to make.
 ## The Mountain Ahead
 
 Like is the case with anything, there's a lot I still need to learn about programming.
-- I need to get on that LeetCode grind. When I was in high school, I did a lot of competition math, and I saw a lot of improvement when I actually sat down and practiced. So, I think I can see improvement here, too.
-- Although I took a DSA course already, I need to get really, really comfortable with data structures and algorithms and add them to my mental library.
-- Dynamic programming is still not something I'm very good at.
 - I'm still not exactly sure what computing specialty I want to go into. Web dev? Cybersecurity? Game development? AI? What am I good at? What will I enjoy?
 
 ## Contacts
