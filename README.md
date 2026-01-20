@@ -22,6 +22,9 @@ Generally, I make stuff that I think would be interesting to make.
   - So, why not do the alternate way of calculating determinants, by using elementary row operations to get rid of the lower triangle and then multiplying the numbers on the diagonal? I can try this.
 - Gacha pull simulator: Although I'm not a huge fan of gacha as a game mechanic, it makes for a fun little programming project.
   - The explanation for how gacha systems work will be in the source code once I commit the repository.
+- Professor Axelrod's Prisoner's Dilemma
+  - I saw this really interesting Game Theory video about the Prisoner's Dilemma and strategies for playing it. I knew I really wanted to replicate this experiment myself.
+  - Here's the idea: People have heard of the prisoner's dilemma, but what happens if you play the game multiple times? 200? 500? What's the best strategy then? The results may surprise you.
 
 ## The Mountain Ahead
 
